@@ -1,0 +1,11 @@
+{
+  "name": "corsfeeder",
+  "description": "Simple CORS proxy for RSS feeds",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
